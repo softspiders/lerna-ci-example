@@ -12,6 +12,7 @@ The repository provides an example of CI settings for building and publishing le
 ## Feature tags
 
 - github-actions
+- git-flow
 - publishing
 - releasing
 - starter
