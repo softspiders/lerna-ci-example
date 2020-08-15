@@ -1,6 +1,47 @@
-# lerna-ci-example
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">
+      <img src="./images/sslogo-from-github-20.png"/>
+    </a>
+</div>
 
-Репозиторий предоставляет пример настройки CI для сборки и публикации в NPM монорепозиториев lerna на базе Github Actions.
+The repository provides an example of CI settings for building and publishing lerna monorepositories to NPM based on
+*Github Actions*.
+
+# lerna-ts-ci-starter
+
+## Feature tags
+
+- github-actions
+- publishing
+- releasing
+- starter
+- template
+- typescript
+
+## Parents
+
+- [- ***publishing***: js-github-actions](https://github.com/softspiders/js-github-actions)
+
+---
+
+## Author
+
+[AlexSav94](https://github.com/AlexSav94)
+
+---
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/)
+
+---
+
+## Running
+
+```sh
+TBD
+```
+---
 
 ## Использованные технологии
 
@@ -66,3 +107,13 @@
 * *publish:pre-release*: публикация rc-версии.
 * *publish:pre-release:alpha*: публикация alpha-версии.
 * *publish:pre-release:beta*: публикация beta-версии.
+
+---
+
+### License
+
+Licensed under the [MIT license](./LICENSE).
+
+<div align="center">
+    <a href="https://github.com/softspiders/softspiders">SOFTSPIDERS</a>
+</div>
