@@ -21,7 +21,7 @@ The repository provides an example of CI settings for building and publishing le
 
 ## Parents
 
-- [- ***publishing***: js-github-actions](https://github.com/softspiders/js-github-actions)
+- [- ***git-flow***, ***publishing***, ***releasing***, ***typescript***: js-github-actions](https://github.com/softspiders/js-github-actions)
 
 ---
 
