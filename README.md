@@ -28,6 +28,12 @@ The repository provides an example of CI settings for building and publishing le
 
 ## Author
 
+[AlexanderLapygin](https://github.com/AlexanderLapygin)
+
+---
+
+## Inspiration
+
 [AlexSav94](https://github.com/AlexSav94)
 
 ---
