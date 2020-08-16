@@ -4,15 +4,16 @@
     </a>
 </div>
 
+# lerna-ts-ci-starter
+
 The repository provides an example of CI settings for building and publishing lerna monorepositories to NPM based on
 *Github Actions*.
-
-# lerna-ts-ci-starter
 
 ## Feature tags
 
 - github-actions
 - git-flow
+- lerna
 - publishing
 - releasing
 - starter
@@ -21,7 +22,7 @@ The repository provides an example of CI settings for building and publishing le
 
 ## Parents
 
-- [- ***git-flow***, ***publishing***, ***releasing***, ***typescript***: js-github-actions](https://github.com/softspiders/js-github-actions)
+- [- ***git-flow***, ***lerna***, ***publishing***, ***releasing***, ***typescript***: js-github-actions](https://github.com/softspiders/js-github-actions)
 
 ---
 
